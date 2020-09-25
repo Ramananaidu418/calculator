@@ -1,0 +1,62 @@
+.mainBox {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 450px;
+  height: 370px;
+  margin: auto;
+  background-color: #c2bcc9;
+}
+
+.display {
+  width: 100%;
+  height: 30%;
+  background-color: black;
+  color: white;
+}
+.display1 {
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  text-align: right;
+}
+.display2 {
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  text-align: right;
+}
+.keyboard {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  border: 1px solid black;
+  background-color:rgb(116, 116, 116) ;
+}
+.button {
+  width: 25%;
+  height: 100%;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+}
+.button1 {
+  width: 25%;
+  height: 100%;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  background-color: green;
+}
+.button2 {
+  width: 25%;
+  height: 100%;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  background-color: green;
+}
+
